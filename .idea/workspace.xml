@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afcc5026-8476-48a6-9c81-8fb01876885a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_01.jpg" afterPath="$PROJECT_DIR$/public/images/img_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_02.jpg" afterPath="$PROJECT_DIR$/public/images/img_02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_03.jpg" afterPath="$PROJECT_DIR$/public/images/img_03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_04.jpg" afterPath="$PROJECT_DIR$/public/images/img_04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_05.jpg" afterPath="$PROJECT_DIR$/public/images/img_05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_06.jpg" afterPath="$PROJECT_DIR$/public/images/img_06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_07.jpg" afterPath="$PROJECT_DIR$/public/images/img_07.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_08.jpg" afterPath="$PROJECT_DIR$/public/images/img_08.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_09.jpg" afterPath="$PROJECT_DIR$/public/images/img_09.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_10.jpg" afterPath="$PROJECT_DIR$/public/images/img_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_11.jpg" afterPath="$PROJECT_DIR$/public/images/img_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_12.jpg" afterPath="$PROJECT_DIR$/public/images/img_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_13.jpg" afterPath="$PROJECT_DIR$/public/images/img_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_14.jpg" afterPath="$PROJECT_DIR$/public/images/img_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_15.jpg" afterPath="$PROJECT_DIR$/public/images/img_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_16.jpg" afterPath="$PROJECT_DIR$/public/images/img_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_17.jpg" afterPath="$PROJECT_DIR$/public/images/img_17.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_18.jpg" afterPath="$PROJECT_DIR$/public/images/img_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_19.jpg" afterPath="$PROJECT_DIR$/public/images/img_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_20.jpg" afterPath="$PROJECT_DIR$/public/images/img_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_21.jpg" afterPath="$PROJECT_DIR$/public/images/img_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_22.jpg" afterPath="$PROJECT_DIR$/public/images/img_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_23.jpg" afterPath="$PROJECT_DIR$/public/images/img_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_24.jpg" afterPath="$PROJECT_DIR$/public/images/img_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/img_25.jpg" afterPath="$PROJECT_DIR$/public/images/img_25.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/plugin/gallery.xml" afterPath="$PROJECT_DIR$/public/plugin/gallery.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.html" afterPath="$PROJECT_DIR$/views/index.html" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,8 +47,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5833333">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.7083333">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -458,8 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5833333">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.7083333">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
